@@ -1,6 +1,6 @@
 <script>
 
-import data from '../../../data/all.json'
+import data from '../../../data/messenger.json'
 import NimblePicker from './nimblePicker'
 
 import { PickerProps } from '../../utils/shared-props'

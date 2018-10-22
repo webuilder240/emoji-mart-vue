@@ -1,4 +1,4 @@
-import data from '../../../data/all.json'
+import data from '../../../data/messenger.json'
 import NimbleEmojiIndex from './nimble-emoji-index'
 
 const emojiIndex = new NimbleEmojiIndex(data)

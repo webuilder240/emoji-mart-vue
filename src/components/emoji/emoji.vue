@@ -1,6 +1,6 @@
 <script>
 
-import data from '../../../data/all.json'
+import data from '../../../data/messenger.json'
 import NimbleEmoji from './nimbleEmoji'
 
 import { EmojiProps } from '../../utils/shared-props'
